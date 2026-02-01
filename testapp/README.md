@@ -1,9 +1,3 @@
-docker compose -f mongo.yaml up -d
-
-<p align="center">
-	<img src="./public/logo.png" alt="docker-testapp logo" width="120" height="120"/>
-</p>
-
 # 🚀 docker-testapp
 
 <p align="center">
@@ -11,14 +5,6 @@ docker compose -f mongo.yaml up -d
 </p>
 
 ---
-
-## 📸 Screenshots
-
-<p align="center">
-	<img src="./public/screenshot-app.png" alt="App Screenshot" width="600"/>
-	<br>
-	<i>Add your own screenshots in <code>public/</code> and update the image paths here.</i>
-</p>
 
 ---
 
@@ -98,12 +84,6 @@ App will be available at [http://localhost:5050](http://localhost:5050)
 ## 💾 Data Persistence
 
 MongoDB data is persisted using Docker volumes, so your data is safe even if containers are stopped or removed.
-
----
-
-## 🖼️ Add Your Own Images
-
-Place screenshots or a logo in the `public/` folder and update the image links above for a more personalized README!
 
 ---
 
